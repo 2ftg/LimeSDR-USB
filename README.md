@@ -1,9 +1,9 @@
-# LimeSDR
+# FTG Fork of LimeSDR
 
 ![LimeSDR board](/images/LimeSDR_722w.jpg)
 
-This is the OH2FTG Fork of the official LimeSDR repository. 
-This means that anything here might be modified in some weird way and not be compatible with official LimeSDR/MyriadRF stuff.
+* **This is the OH2FTG Fork of the official LimeSDR repository.** * 
+* This means that anything here might be modified in some weird way and not be compatible with official LimeSDR/MyriadRF stuff. *
 
 
 The [LimeSDR](https://myriadrf.org/projects/limesdr/) board provides a hardware platform for developing and prototyping high-performance and logic-intensive digital and RF designs using Altera’s Cyclone IV FPGA and Lime Microsystems transceiver.
